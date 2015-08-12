@@ -21,8 +21,8 @@ gems:
 
 
 # Site owner
-owner: PaleoHacks.org
-  name: Stephen Lange
+owner: 
+  name: "Stephen Lange"
   email: stvlange@gmail.com
   twitter: stvlange
   google:
