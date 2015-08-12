@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Here is the title of the post
+title: bnnnHere is the title of the post
 category: blog
 tags: [tags for the post, is here]  
 summary: Yo Here is a summary of the post
