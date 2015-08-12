@@ -3,8 +3,12 @@ title: PaleoHacks.org
 tagline: Hacking Food for Healthy Living
 email: stvlange@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  If am am being honest, I have always had unhealthy eating habits. 
-  I recently switched to a Paleo Lifestyle, this site will document this journey and any Hacks I have Found to make it Easier.  Have a Hack to share? Email Me!
+  If am am being honest, I have always had unhealthy eating habits. I recently switched to a Paleo Lifestyle to help address these concerns.
+  
+  Come with me as I explore everything that Paleo Culture has to offer.
+  
+  Along the way if I find a Paleo hack that I find noteworth I will share it here, along those same lines, if you have a great Paleo hack to share, please email it to me to be featured on this site.
+  
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://paleohacks.org" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
