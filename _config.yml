@@ -10,10 +10,10 @@ relative_permalinks: true
 # Setup
 timezone:            America/Chicago # eg. Asia/Kathmandu
 locale:              en_us
-name:				 'PaleoHacks.org'
-title:               'PaleoHacks.org'
-tagline:             'Hacking Food for Fun & Profit'
-description:         'description'
+name:				 "PaleoHacks.org"
+title:               "PaleoHacks.org"
+tagline:             "Hacking Food for Fun & Profit"
+description:         "description"
 url:                 http://paleohacks.org
 rss:                 rss feed url
 baseurl:             '/'
