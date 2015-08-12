@@ -4,7 +4,7 @@ tagline: Hacking Food for Healthy Living
 email: stvlange@gmail.com
 description: "PaleoHacks.org Explores the Tips, Tricks, Culture and Opinions Surrounding the Paleo Diet LifeStyle."
   
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://paleohacks.org" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "Stephen Lange"
