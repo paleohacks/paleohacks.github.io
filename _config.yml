@@ -1,52 +1,48 @@
+# Site settings
+title: PaleoHacks.org
+email: stvlange@gmail.com
+url: http://paleohacks.org
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+skills: "Web Developer - Graphic Artist - User Experience Designer"
 
-# Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
 
-# Permalinks
-permalink:           /:title
-relative_permalinks: true
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
 
-# Setup
-timezone:            America/Chicago # eg. Asia/Kathmandu
-locale:              en_us
-name:				 "PaleoHacks.org"
-title:               "PaleoHacks.org"
-tagline:             "Hacking Food for Fun & Profit"
-description:         "description"
-url:                 http://paleohacks.org
-rss:                 rss feed url
-baseurl:             '/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
-icon:                /assets/img/icon.png
-disqus:              paleohacksdotorg # get it on https://disqus.com/admin/
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
 
-author:
-  name:           	 Stephen Lange
-  url:            	 http://paleohacks.org
-  #facebook:          username
-  twitter:           stvlange
-  #google_plus:       username
-  #linkedin:          username
-  #dribbble:          username
-  #pinterest:         username
-  #kiva:              username
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/stvlange
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
-#fb_admins:           your facebook profile id
-#fb_appid:            your facebook app id
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
-# Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
-defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "default"
+# Build settings
+markdown: kramdown
+permalink: pretty
