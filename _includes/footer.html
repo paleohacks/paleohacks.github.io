@@ -1,15 +1,19 @@
-<footer role="contentinfo" id="site-footer">
-	<nav role="navigation" class="menu bottom-menu">
-		<ul class="menu-item">
-		{% for link in site.data.footer %}
-      {% if link.url contains 'http' %}
-        {% assign domain = '' %}
-        {% else %}
-        {% assign domain = site.url %}
-      {% endif %}
-			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-		{% endfor %}
-		</ul>
-	</nav><!-- /.bottom-menu -->
-	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p>
+<footer class="section--footer">
+  <div class="container container--content">
+    <div>
+      <a href="{{ site.baseurl }}humans.txt">Hand-crafted</a> by <a href="{{ site.baseurl }}about/">Your Name</a>
+    </div>
+    <ul class="socialAccountList">
+      <li><a href="http://twitter.com/{{ site.author.twitter }}" class="socialAccount socialAccount--twitter" target="_blank"></a></li>
+      <li><a href="http://facebook.com/{{ site.author.facebook }}" class="socialAccount socialAccount--facebook" target="_blank"></a></li>
+      <li><a href="http://www.linkedin.com/in/{{ site.author.linkedin }}" class="socialAccount socialAccount--linkedin" target="_blank"></a></li>
+      <li><a href="http://dribbble.com/{{ site.author.dribble }}" class="socialAccount socialAccount--dribbble" target="_blank"></a></li>
+      <li><a href="https://www.pinterest.com/{{ site.author.pinterest }}/" class="socialAccount socialAccount--pinterest" target="_blank"></a></li>
+      <li><a href="http://www.kiva.org/lender/{{ site.author.kiva }}" class="socialAccount socialAccount--kiva" target="_blank"></a></li>
+      <li><a href="{{ site.rss }}" class="socialAccount socialAccount--rss" target="_blank"></a></li>
+    </ul>
+    <div>
+      © 2015 All Rights Reserved. Powered by the <a href="https://github.com/vincentchan/mickey" target="_blank">Mickey theme</a> for Jekyll.
+    </div>
+  </div>
 </footer>
