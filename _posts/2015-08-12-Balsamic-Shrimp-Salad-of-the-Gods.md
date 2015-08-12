@@ -3,7 +3,7 @@ layout: post
 title:  "Balsamic Shrimp Salad of the Gods"
 date:   2015-08-12 11:00:55
 categories: recipe eating-out
-banner_image: arboretum.jpg
+banner_image: arboretum-small.jpg
 comments: true
 ---
 
