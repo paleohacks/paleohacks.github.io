@@ -1,7 +1,7 @@
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
+#- title: Portfolio
+#  url: /portfolio/
+#  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+#  image: 300x200.gif
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+#- title: Made Mistakes
+#  url: http://mademistakes.com
