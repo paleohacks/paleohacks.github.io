@@ -1,13 +1,15 @@
-markdown: redcarpet
-highlighter: null
-permalink: /:title
-
-url: http://paleohacks.org
-baseurl: http://paleohacks.org
-
-redcarpet:
-  extensions: [strikethrough, tables]
-
-sass:
-  sass_dir: public/css
-  style: :compressed
+permalink: /:categories/:title.html
+url: "http://paleohacks.org"
+full_name: "Stephen Lange"
+first_name: "Stephen"
+last_name: "Lange"
+blog_title: "PaloeHacks.org"
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "paleohacksdotorg"
+copyright_year: "2015"
+google_analytics_code: ""
+aboutme: "Bearded Wonder"
+twitter: "stvlange"
+github: "paloehacks"
+#facebook: "mepasindu"
+#linkined_url: ""
