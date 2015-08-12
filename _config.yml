@@ -1,9 +1,9 @@
 permalink: /:categories/:title.html
 url: "http://paleohacks.org"
-full_name: "Stephen Lange"
+full_name: "PaleoHacks.org"
 first_name: "Stephen"
 last_name: "Lange"
-blog_title: "PaloeHacks.org"
+blog_title: "PaleoHacks.org"
 author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: "paleohacksdotorg"
 copyright_year: "2015"
