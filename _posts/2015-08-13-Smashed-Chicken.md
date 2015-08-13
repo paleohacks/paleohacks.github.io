@@ -14,6 +14,7 @@ In the cookbook this chicken gets paired with an amazing looking pineapple salsa
 I was really excited to make this recipe because the chicken gets coated in a coconut flour mix and friend in ghee.  Up until last night it felt like forever since I had anything fried.  So the excitement was high.
 
 So the process went like this:
+
 - Cover the chicken breasts in parchment paper and smash with a rolling pin until it was the thickness of a decent flank steak.
 - Coat the chicken in the coconut mix, shaking off any big clumps.
 - Cooking each side for 2-3 minutes or until golden brown.
@@ -22,6 +23,7 @@ So the process went like this:
 The racks I found really were a huge benefit, I didn't realize how big the chicken breasts would be in their smashed state.  I was using a fairly large frying pan and could just fit one breast in at a time.
 
 The coconut mix couldn't have been simpler:
+
 - 1/2 cup of Coconut Flour
 - 1 tbsp. Garlic Powder
 - 1 tsp. Salt 
